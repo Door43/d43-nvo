@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nvo:home|Door43 (nvo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nvo|d43-nvo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nvo/archive/master.zip|d43-nvo.zip]]
+
+**Recent Changes**
+{{changes>ns = nvo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nvo|Ethnologue data]]
+
